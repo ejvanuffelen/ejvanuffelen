@@ -1,11 +1,12 @@
-<h2 align="center"><strong>Hi 👋, I'm Eddy John van Uffelen</strong></h1>
+<h2 align="center"><samp><strong>Hi 👋, I'm Eddy John van Uffelen</strong></samp></h2>
 <p align="center">Data-analyst | ML enthusiast | Python scripting</p>
 
 <p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
-<h3 align="left">Find me on:</h3><br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)<br>
-![Email](https://img.shields.io/badge/E--mail-eddy%40vu--automation.nl-black?style=flat&logo=gmail&logoColor=red&labelColor=blue&link=mailto%3Aeddy%40vu-automation.nl)
+<h3 align="left">Find me on:</h3>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?style=plastic&logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)
+[![Email](https://img.shields.io/badge/E--mail-eddy%40vu--automation.nl-blue?style=plastic&logo=gmail&logoColor=red&labelColor=black)](mailto:eddy@vu-automail.nl)
+
 
 <a href="https://linkedin.com/in/eddyjohnvanuffelen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddyjohnvanuffelen" height="30" width="40" /></a>
