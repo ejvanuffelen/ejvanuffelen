@@ -2,7 +2,10 @@
 
 <p align="center">Data-analyst | ML enthusiast | Python scripting</p>
 
-<p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
+<p align="left">
+Currently I'm working at Topicus.<br>
+At an early age I was convinced that descisions become better backed by data.
+</p>
 
 <h4 align="left">Contact me on:</h4>
 
@@ -26,11 +29,13 @@
 
 🧐 **Knowledge of:**<br>
 `Advanced analytics`, `Object-Orientend Programming`, `Scripting`, `Automation`, `Datawarehouse design`, `3rd Party API`, `Algorithms`, `Data structurers`.
-
+<!--
 🌍 **Deployment platforms:**<br>
 
-🚩 **Highlights:** <br>
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
+🚩 **Highlights:** <br>
+-->
 📚 **Working on:** <br>
 
 ![Matomo](https://img.shields.io/badge/_-Matomo-black?style=plastic&logo=matomo&labelColor=%233152A0)
