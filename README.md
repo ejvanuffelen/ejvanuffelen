@@ -5,9 +5,9 @@
 
 <h3 align="left">Contact me on:</h3>
 
-[![Linkedin](https://img.shields.io/badge/Eddy_van_Uffelen-black?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=black&color=%230A66C2)](https://linkedin.com/in/eddyjohnvanuffelen/)&nbsp;
-[![Email](https://img.shields.io/badge/Eddy_van_Uffelen%40proton.me-black?style=plastic&logo=protonmail&logoColor=%236D4AFF&labelColor=black&color=%236D4AFF)](mailto:ej_van_uffelen@proton.me)&nbsp;
-[![Static Badge](https://img.shields.io/badge/ejvanu-black?style=plastic&logo=kaggle&labelColor=black&color=%2320BEFF)](https://kaggle.com/ejvanu)
+[![Linkedin](https://img.shields.io/badge/Eddy_van_Uffelen-black?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=%23494949&color=%230A66C2)](https://linkedin.com/in/eddyjohnvanuffelen/)&nbsp;
+[![Email](https://img.shields.io/badge/Eddy_van_Uffelen%40proton.me-black?style=plastic&logo=protonmail&logoColor=%236D4AFF&labelColor=%23494949&color=%236D4AFF)](mailto:ej_van_uffelen@proton.me)&nbsp;
+[![Static Badge](https://img.shields.io/badge/ejvanu-black?style=plastic&logo=kaggle&labelColor=%23494949&color=%2320BEFF)](https://kaggle.com/ejvanu)
 
 
 
