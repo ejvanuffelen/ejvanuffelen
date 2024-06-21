@@ -3,10 +3,12 @@
 
 <p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
 
-<h3 align="left">Find me on:</h3>
+<h3 align="left">Contact me on:</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?style=plastic&logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)
-[![Email](https://img.shields.io/badge/E--mail-eddy%40vu--automation.nl-blue?style=plastic&logo=gmail&logoColor=red&labelColor=black)](mailto:eddy@vu-automail.nl)
+[![Linkedin](https://img.shields.io/badge/Eddy_van_Uffelen-black?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=black&color=%230A66C2)](https://linkedin.com/in/eddyjohnvanuffelen/)&nbsp;
+[![Email](https://img.shields.io/badge/Eddy_van_Uffelen%40proton.me-black?style=plastic&logo=protonmail&logoColor=%236D4AFF&labelColor=black&color=%236D4AFF)](mailto:ej_van_uffelen@proton.me)&nbsp;
+[![Static Badge](https://img.shields.io/badge/ejvanu-black?style=plastic&logo=kaggle&labelColor=black&color=%2320BEFF)](https://kaggle.com/ejvanu)
+
 
 
 <a href="https://linkedin.com/in/eddyjohnvanuffelen" target="blank">
