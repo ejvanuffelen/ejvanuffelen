@@ -10,47 +10,35 @@
 [![Email](https://img.shields.io/badge/Eddy_van_Uffelen%40proton.me-black?style=plastic&logo=protonmail&logoColor=%236D4AFF&labelColor=%23494949&color=%236D4AFF)](mailto:ej_van_uffelen@proton.me)&nbsp;
 [![Static Badge](https://img.shields.io/badge/ejvanu-black?style=plastic&logo=kaggle&labelColor=%23494949&color=%2320BEFF)](https://kaggle.com/ejvanu)
 
-<h4 align="left">Languages & Tools:</h4>
+💻🛠️ **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/_-Python-black?style=plastic&logo=python&labelColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=plastic&logo=visual-studio-code&labelColor=007ACC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=plastic&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&labelColor=white)
+![AWS](https://img.shields.io/badge/_-AWS-black?style=plastic&logo=amazonwebservices&labelColor=%23232F3E)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Dataiku](https://img.shields.io/badge/_-Dataiku-black?style=plastic&logo=dataiku&labelColor=white)
 
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🧐 **Knowledge of:**<br>
+`Advanced analytics`, `Object-Orientend Programming`, `Scripting`, `Automation`, `Datawarehouse design`, `3rd Party API`, `Algorithms`, `Data structurers`.
 
+🌍 **Deployment platforms:**<br>
+
+🚩 **Highlights:** <br>
+
+📚 **Working on:** <br>
+
+![Matomo](https://img.shields.io/badge/_-Matomo-black?style=plastic&logo=matomo&labelColor=%233152A0)
+![MariaDB](https://img.shields.io/badge/_-MariaDB-black?style=plastic&logo=mariadb&labelColor=%23003545)
+
+🤓 **Interested:** <br>
+
+<p>
+      <img style="border-radius: 5px; margin-bottom: 5px align=left" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=ejvanuffelen" />
+</p>
 
