@@ -4,6 +4,7 @@
 <p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
 
 <h3 align="left">Find me on:</h3>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?style=plastic&logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)
 [![Email](https://img.shields.io/badge/E--mail-eddy%40vu--automation.nl-blue?style=plastic&logo=gmail&logoColor=red&labelColor=black)](mailto:eddy@vu-automail.nl)
 
