@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eddy John van Uffelen</h1>
-<h3 align="center">I'm currently working as a data-analyst at Topicus. I'd strive to reduce </h3>
+<h2 align="center"><strong>Hi 👋, I'm Eddy John van Uffelen</strong></h1>
+<p align="center">Data-analyst | ML enthusiast | Python scripting</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
+<h3 align="left">Find me on:</h3><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)
 <a href="https://linkedin.com/in/eddyjohnvanuffelen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddyjohnvanuffelen" height="30" width="40" /></a>
 <a href="https://kaggle.com/ejvanu" target="blank">
