@@ -3,7 +3,10 @@
 
 <p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
 <h3 align="left">Find me on:</h3><br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Eddy%20van%20Uffelen-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/eddyjohnvanuffelen/)<br>
+![Email](https://img.shields.io/badge/E--mail-eddy%40vu--automation.nl-black?style=flat&logo=gmail&logoColor=red&labelColor=blue&link=mailto%3Aeddy%40vu-automation.nl)
+
 <a href="https://linkedin.com/in/eddyjohnvanuffelen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddyjohnvanuffelen" height="30" width="40" /></a>
 <a href="https://kaggle.com/ejvanu" target="blank">
