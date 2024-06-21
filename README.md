@@ -1,23 +1,19 @@
-<h2 align="center"><samp><strong>Hi 👋, I'm Eddy John van Uffelen</strong></samp></h2>
+<h2 align="center"><samp><strong>Hi 👋, I'm Eddy van Uffelen&nbsp;<a href="https://github.com/ejvanuffelen"><img src="https://img.shields.io/github/followers/ejvanuffelen?label=Follow%20Me&style=social"></a></strong></samp></h2>
+
 <p align="center">Data-analyst | ML enthusiast | Python scripting</p>
 
 <p align="left">Currently I'm working at Topicus. At an early age I was convinced that descisions become better backed by data.</p>
 
-<h3 align="left">Contact me on:</h3>
+<h4 align="left">Contact me on:</h4>
 
 [![Linkedin](https://img.shields.io/badge/Eddy_van_Uffelen-black?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=%23494949&color=%230A66C2)](https://linkedin.com/in/eddyjohnvanuffelen/)&nbsp;
 [![Email](https://img.shields.io/badge/Eddy_van_Uffelen%40proton.me-black?style=plastic&logo=protonmail&logoColor=%236D4AFF&labelColor=%23494949&color=%236D4AFF)](mailto:ej_van_uffelen@proton.me)&nbsp;
 [![Static Badge](https://img.shields.io/badge/ejvanu-black?style=plastic&logo=kaggle&labelColor=%23494949&color=%2320BEFF)](https://kaggle.com/ejvanu)
 
+<h4 align="left">Languages & Tools:</h4>
 
+![Python](https://img.shields.io/badge/_-Python-black?style=plastic&logo=python&labelColor=white)
 
-<a href="https://linkedin.com/in/eddyjohnvanuffelen" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddyjohnvanuffelen" height="30" width="40" /></a>
-<a href="https://kaggle.com/ejvanu" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ejvanu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
